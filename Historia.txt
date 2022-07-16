@@ -2,3 +2,4 @@ Esta es una prueba para iniciar el conocimiento de Git
 Primer cambio con commit puesto.
 
 Esto es un nuevo elemento que se agrego.
+Algo mas de texto para nuestro evento.
