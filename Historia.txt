@@ -1,5 +1,6 @@
-Esta es una prueba para iniciar el conocimiento de Git
-Primer cambio con commit puesto.
+Esta es la Historia de Cristian Camilo
 
-Esto es un nuevo elemento que se agrego.
-Algo mas de texto para nuestro evento.
+Cristian Camilo tiene 22 años y nacio en Colombia,
+viviendo en todo el mundo
+
+Hoy Hablaremos de su Vida.
